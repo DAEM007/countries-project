@@ -1,6 +1,6 @@
 # Frontend Mentor - REST Countries API with color theme switcher
 
-> *This project is aimed at refreshening my vanilla js && tailwind skills.*
+> *This project is aimed at refreshening my vanilla js && tailwind skills. I would be building the react version as well using TypeScript && chakra UI*
 
 ![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)
 
